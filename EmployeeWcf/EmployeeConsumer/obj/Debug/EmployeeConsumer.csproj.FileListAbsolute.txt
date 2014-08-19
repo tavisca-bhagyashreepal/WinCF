@@ -1,0 +1,8 @@
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeConsumer\bin\Debug\EmployeeConsumer.exe.config
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeConsumer\bin\Debug\EmployeeConsumer.exe
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeConsumer\bin\Debug\EmployeeConsumer.pdb
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeConsumer\obj\Debug\EmployeeConsumer.exe
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeConsumer\obj\Debug\EmployeeConsumer.pdb
+E:\EmployeeWcf\EmployeeConsumer\bin\Debug\EmployeeConsumer.exe.config
+E:\EmployeeWcf\EmployeeConsumer\obj\Debug\EmployeeConsumer.exe
+E:\EmployeeWcf\EmployeeConsumer\obj\Debug\EmployeeConsumer.pdb

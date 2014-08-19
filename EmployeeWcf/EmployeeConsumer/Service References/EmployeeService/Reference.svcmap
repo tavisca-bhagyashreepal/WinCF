@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c8516c1a-9a65-4df9-9df3-6c1f4021cb67" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:63894/EmployeeService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EmployeeService.wsdl" MetadataType="Wsdl" ID="7c412412-2f4b-4a03-9b06-9324bca8f5fb" SourceId="1" SourceUrl="http://localhost:63894/EmployeeService.svc?wsdl" />
+    <MetadataFile FileName="EmployeeService.xsd" MetadataType="Schema" ID="901724c8-ad0e-4de9-984d-ab84bc4e2238" SourceId="1" SourceUrl="http://localhost:63894/EmployeeService.svc?xsd=xsd0" />
+    <MetadataFile FileName="EmployeeService.disco" MetadataType="Disco" ID="e1731c79-405d-4269-98a2-d04b46b429c0" SourceId="1" SourceUrl="http://localhost:63894/EmployeeService.svc?disco" />
+    <MetadataFile FileName="EmployeeService2.xsd" MetadataType="Schema" ID="89009ae2-5385-4f0c-8d2f-8551f5aa8f42" SourceId="1" SourceUrl="http://localhost:63894/EmployeeService.svc?xsd=xsd2" />
+    <MetadataFile FileName="EmployeeService1.xsd" MetadataType="Schema" ID="4b9762b7-37e2-4350-9ac1-54cf43657cbe" SourceId="1" SourceUrl="http://localhost:63894/EmployeeService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,14 @@
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeWcf\bin\EmployeeWcf.dll
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeWcf\bin\EmployeeWcf.pdb
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeWcf\obj\Debug\EmployeeWcf.dll
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeWcf\obj\Debug\EmployeeWcf.pdb
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeWcf\bin\EmployeeServiceValidator.dll
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeWcf\bin\EmployeeServiceValidator.pdb
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\EmployeeWcf\obj\Debug\EmployeeWcf.csprojResolveAssemblyReference.cache
+E:\EmployeeWcf\EmployeeWcf\bin\EmployeeWcf.dll
+E:\EmployeeWcf\EmployeeWcf\bin\EmployeeWcf.pdb
+E:\EmployeeWcf\EmployeeWcf\bin\EmployeeServiceValidator.dll
+E:\EmployeeWcf\EmployeeWcf\bin\EmployeeServiceValidator.pdb
+E:\EmployeeWcf\EmployeeWcf\obj\Debug\EmployeeWcf.csprojResolveAssemblyReference.cache
+E:\EmployeeWcf\EmployeeWcf\obj\Debug\EmployeeWcf.dll
+E:\EmployeeWcf\EmployeeWcf\obj\Debug\EmployeeWcf.pdb

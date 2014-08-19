@@ -1,0 +1,9 @@
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\Validator\bin\Debug\EmployeeServiceValidator.dll
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\Validator\bin\Debug\EmployeeServiceValidator.pdb
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\Validator\obj\Debug\EmployeeServiceValidator.dll
+E:\webserver\red-repo\webserver\WebServer\EmployeeWcf\Validator\obj\Debug\EmployeeServiceValidator.pdb
+E:\EmployeeWcf\Validator\bin\Debug\EmployeeServiceValidator.dll
+E:\EmployeeWcf\Validator\bin\Debug\EmployeeServiceValidator.pdb
+E:\EmployeeWcf\Validator\obj\Debug\EmployeeServiceValidator.csprojResolveAssemblyReference.cache
+E:\EmployeeWcf\Validator\obj\Debug\EmployeeServiceValidator.dll
+E:\EmployeeWcf\Validator\obj\Debug\EmployeeServiceValidator.pdb

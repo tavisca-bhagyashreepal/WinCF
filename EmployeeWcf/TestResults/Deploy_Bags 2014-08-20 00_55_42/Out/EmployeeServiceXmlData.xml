@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees>
+  <AddEmployee>
+    <EmployeeId>1</EmployeeId>
+    <EmployeeName>Bhagyashree</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </AddEmployee>
+  
+  <AddAgainEmployee>
+    <EmployeeId>2</EmployeeId>
+    <EmployeeName>Shivani</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </AddAgainEmployee>
+
+  <RetrieveEmployeeById>
+    <EmployeeId>3</EmployeeId>
+    <EmployeeName>Pooja</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </RetrieveEmployeeById>
+  
+  <RetrieveEmployeeByIdButIdNotPresent>
+    <EmployeeId>4</EmployeeId>
+    <EmployeeName>Namrata</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+    <EmployeeIdNotPresent>101</EmployeeIdNotPresent>
+  </RetrieveEmployeeByIdButIdNotPresent>
+
+  <RetrieveEmployeeByName>
+    <EmployeeId>5</EmployeeId>
+    <EmployeeName>Nikita</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </RetrieveEmployeeByName>
+  
+  <RetrieveEmployeeByNameButNameNotPresent>
+    <EmployeeId>6</EmployeeId>
+    <EmployeeName>Archita</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+    <EmployeeNameNotPresent>Baggi</EmployeeNameNotPresent>
+  </RetrieveEmployeeByNameButNameNotPresent>
+  
+  <RetrieveAllEmployees>
+    <EmployeeId>7</EmployeeId>
+    <EmployeeName>Priti</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </RetrieveAllEmployees>
+  
+  <AddRemark>
+    <EmployeeId>8</EmployeeId>
+    <EmployeeName>Smriti</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+    <NewRemark>OutStanding</NewRemark>
+  </AddRemark>
+  
+   <AddRemarkButEmployeeNotPresent>
+    <EmployeeId>9</EmployeeId>
+    <EmployeeName>Rachana</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+    <NewRemark>OutStanding</NewRemark>
+    <EmployeeIdNotPresent>103</EmployeeIdNotPresent>
+  </AddRemarkButEmployeeNotPresent>
+  
+  <GetEmployeeByRemark>
+    <EmployeeId>10</EmployeeId>
+    <EmployeeName>Prem</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </GetEmployeeByRemark>
+  
+   <GetEmployeeByRemarkButRemarkNotPresent>
+    <EmployeeId>11</EmployeeId>
+    <EmployeeName>Anshu</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+    <EmployeeRemarkNotPresent>Bad</EmployeeRemarkNotPresent>
+   </GetEmployeeByRemarkButRemarkNotPresent>
+  
+  <AddRemarksByIdValidatorId>
+    <EmployeeId>-12</EmployeeId>
+    <EmployeeName>Neha</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </AddRemarksByIdValidatorId>
+  
+  <AddRemarksByIdValidatorRemark>
+    <EmployeeId>12</EmployeeId>
+    <EmployeeName>Pratima12$@!</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </AddRemarksByIdValidatorRemark>
+  
+  <GetEmployeesByIdValidatorId>
+    <EmployeeId>-13</EmployeeId>
+    <EmployeeName>Sofiya</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </GetEmployeesByIdValidatorId>
+  
+   <GetEmployeesByNameValidatorName>
+    <EmployeeId>13</EmployeeId>
+    <EmployeeName>Sofiya12@#!</EmployeeName>
+    <EmployeeRemark>Good</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </GetEmployeesByNameValidatorName>
+  
+   <GetEmployeesByNameValidatorName>
+    <EmployeeId>14</EmployeeId>
+    <EmployeeName>Sofiya</EmployeeName>
+    <EmployeeRemark>Average</EmployeeRemark>
+    <EmployeeRemarkDate>2/12/2014</EmployeeRemarkDate>
+  </GetEmployeesByNameValidatorName>
+
+</Employees>
